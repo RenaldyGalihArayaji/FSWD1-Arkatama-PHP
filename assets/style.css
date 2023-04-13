@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    width: 500px;
+    height: 80vh;
+    background-color: rgb(218, 219, 219);
+    margin-top: 30px;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 2px 2px 4px #999;
+}
+.img img{
+    width: 130px;
+    height: 130px;
+    margin-top: 30px;
+    border-radius: 80px;
+    box-shadow: 2px 2px 4px #999;
+    margin-bottom: 15px;
+}
+.dataDiri{
+    padding: 40px;
+}
+.dataDiri table tr td{
+    font-size: 15px;
+}
